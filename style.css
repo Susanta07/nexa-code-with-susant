@@ -81,7 +81,7 @@ body.hide-header .header{
     border-radius: 0.75rem;
     border: none;
     position: fixed;
-    margin-left: 400px;
+    margin-left: 300px;
     filter: drop-shadow(0 0 15px);
     background: var(--secondary-color);
     color: var(--text-color);
